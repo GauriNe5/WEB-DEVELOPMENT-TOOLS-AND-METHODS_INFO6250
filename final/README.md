@@ -1,19 +1,29 @@
 WEB DEVELOPMENT TOOLS AND METHODS (INFO 6250) FINAL PROJECT
 
-Car Showroom Project.
+Car Showroom Web Application.
 
-Steps to Run the application: 
-    * First run npm install(in both server & client folders).
-    * Change the folder path to `\server`  (\final\server) folder and perform `npm run start` command. 
-    * Check package.json `scripts` section for any different OS.
+This full-stack web application allows users to manage a virtual car showroom. Built as part of the WEB DEVELOPMENT TOOLS AND METHODS (INFO 6250) Final Project, it enables users to add, edit, and interact with car listings.
 
-Goals: 
-    * Firstly, an user needs to Sign up by providing username.
-    * An user can add new car's details like car model name, car's information, any car image url(as per the example card provided) and submit these details.
-    * We can see all this information related to the car on the top of the page.
-    * We can add a comment to this car's information and/or edit and/or delete the car details.
-    * Lastly, an user can log out.
-    * Default Card(first car details) cannot be deleted or edited by any user. It can be done by admin only.
+Key Features
+✅ User Authentication: Sign up with a username.
+✅ Car Management: Add, view, edit, and delete car details.
+✅ Comments Section: Users can comment on car listings.
+✅ Role-Based Access: Admins can edit or delete the default car entry, while users have restricted permissions.
+✅ Logout Functionality: Secure user sessions.
+
+How to Run the Application
+1️⃣ Install Dependencies: Run npm install in both server and client folders.
+2️⃣ Start the Backend: Navigate to \final\server and run npm run start.
+3️⃣ Verify Configurations: Check package.json for any OS-specific script changes.
+
+This project showcases React (frontend) and Node.js (backend) with a seamless user experience for managing showroom inventory. 🚀
+
+
+
+
+
+
+
 
 
     Thank you.
