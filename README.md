@@ -1,6 +1,12 @@
 # WEB-DEVELOPMENT-TOOLS-AND-METHODS_INFO6250
 
-Explores advanced server-side technologies and tools necessary to design and engineer complete web-based enterprise
-applications quickly. Designed to build on previous experience to cover the life cycle of a web-based application. Focuses
-on MVC web development frameworks to build server-side, data-intensive, and multitier web applications. Additionally,
-discusses designing rich internet applications (RIA) using AJAX and service-oriented architecture (SOA) using REST.
+Car Showroom Web Application.
+
+This full-stack web application allows users to manage a virtual car showroom. Built as part of the WEB DEVELOPMENT TOOLS AND METHODS (INFO 6250) Final Project, it enables users to add, edit, and interact with car listings.
+
+Key Features
+✅ User Authentication: Sign up with a username.
+✅ Car Management: Add, view, edit, and delete car details.
+✅ Comments Section: Users can comment on car listings.
+✅ Role-Based Access: Admins can edit or delete the default car entry, while users have restricted permissions.
+✅ Logout Functionality: Secure user sessions.
